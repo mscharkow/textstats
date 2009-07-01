@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Michael Scharkow"]
-  s.date = %q{2009-06-24}
+  s.date = %q{2009-07-01}
   s.email = %q{michael@underused.org}
   s.extra_rdoc_files = [
     "LICENSE",
@@ -21,7 +21,8 @@ Gem::Specification.new do |s|
      "VERSION",
      "lib/textstats.rb",
      "test/test_helper.rb",
-     "test/textstats_test.rb"
+     "test/textstats_test.rb",
+     "textstats.gemspec"
   ]
   s.has_rdoc = true
   s.homepage = %q{http://github.com/underused/textstats}
