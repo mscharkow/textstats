@@ -8,7 +8,7 @@ begin
     gem.summary = %Q{TODO}
     gem.email = "michael@underused.org"
     gem.homepage = "http://github.com/underused/textstats"
-    gem.authors = ["michael"]
+    gem.authors = ["Michael Scharkow"]
     # gem is a Gem::Specification... see http://www.rubygems.org/read/chapter/20 for additional settings
   end
 
